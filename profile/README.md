@@ -24,7 +24,7 @@ in your infrastructure. Forever.
 
 ### What we're building
 
-- 🔴 **Fluidify Regen** — open-source incident management, self-hosted, agent-native
+- 🔴 **Fluidify Regen** — open-source incident management, self-hosted, agent-native → [fluidify/regen](https://github.com/FluidifyAI/Regen)
 
 ---
 
@@ -39,4 +39,4 @@ in your infrastructure. Forever.
 
 *Built for the engineers who keep production running.*
 
-→ [fluidify/regen](https://github.com/fluidify/regen)
+
