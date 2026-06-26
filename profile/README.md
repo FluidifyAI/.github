@@ -1,42 +1,31 @@
-# FluidifyAI
-
-Incident management is broken. Teams are paying $50/user/month to wake up at 3am
-with zero context, scramble across four tools, and write post-mortems nobody reads
-before the next incident fires.
-
-We're building the alternative.
-
-**Fluidify Regen** is an open-source, self-hosted incident management platform —
-fully featured, free to run, and built agent-native from the ground up. Not AI
-bolted onto a human workflow. A platform where AI agents and humans are equal
-participants in the same operational layer.
-
-The agent investigates before your phone rings.
-The runbook executes with one approval.
-The post-mortem writes itself.
-The next similar incident resolves faster.
-
-Every incident that runs through Fluidify builds institutional memory —
-patterns, runbooks, confidence scores — that compounds over time and stays
-in your infrastructure. Forever.
-
+# Fluidify AI
+ 
+### AI-native Reliability Suite for DevOps and SRE teams
+ 
+Fluidify AI is an AI-native Reliability and Incident Management Suite designed for DevOps and Site Reliability Engineering (SRE) teams. It provides an open-source, self-hosted solution for replacing disjointed alerts with autonomous AI agents that investigate, triage, and remediate system issues
+ 
+![Fluidify AI](./assets/banner.png)
+ 
+### The Suite is structured into 4 tools to make the entire system lifecycle seamless
+ 
+| Tool | What it does |
+|------|--------------|
+| **Regen** |  Open-source, on-call management and incident lifecycle platform. It handles alert routing, incidents, integrates directly with chat platforms like Slack/Teams, and writes its own post-mortems, summaries and hadnoff digests. |
+| **Neuri** |  An autonomous Root Cause Analysis (RCA) engine designed to traverse entire infrastructure stacks (logs, metrics, and traces) instantly to find system faults. |
+| **Gills** |  A conversational chat interface that lets engineers query their observability and infrastructure  stack in natural language. |
+| **Reflex** |  An intelligent workflow engine featuring adaptive runbooks that execute fixes with/without human-in-the-loop approvals. |
+ 
+## What Makes It Different
+ 
+- **No per-seat billing** — scale your team without scaling your bill.
+- **Total data sovereignty** — self-hosted for data sensitive teams so your data never leaves your infrastructure.
+- **Open standards first** — built on the Open Source model for seamless tooling integration.
 ---
+## Integrate with your stack today
 
-### What we're building
-
-- 🔴 **Fluidify Regen** — open-source incident management, self-hosted, agent-native → [fluidify/regen](https://github.com/FluidifyAI/Regen)
-
+- **[Get Started](https://github.com/FluidifyAI/Regen)**
+- **[Documentation](https://fluidify.ai/docs)**
+- **[Discussions](https://github.com/FluidifyAI/Regen/discussions)**
 ---
-
-### Principles
-
-- Self-hosted is a first-class citizen, not an afterthought
-- SSO is free. Always. Gating it is user-hostile.
-- AI is optional — the platform works without it
-- Your incident data belongs to you, not us
-
----
-
-*Built for the engineers who keep production running.*
-
-
+ 
+Built for the engineers who keep production running.
