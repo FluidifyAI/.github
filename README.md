@@ -1,8 +1,8 @@
 # Fluidify AI
  
-### AI-native Reliability Suite for DevOps and SRE teams
+### Agentic Reliability Suite for DevOps and SRE teams
  
-Fluidify AI is an Agentic Reliability and Incident Management Suite designed for DevOps and Site Reliability Engineering (SRE) teams. It provides an open-source, self-hosted solution for replacing disjointed alerts with autonomous AI agents that investigate, triage, and remediate system issues
+Fluidify AI is an Agentic Reliability Suite designed for DevOps and Site Reliability Engineering (SRE) teams. It provides an open-source, self-hosted solution for replacing disjointed alerts with autonomous AI agents that investigate, triage, and remediate system issues. It is flexible in adoption with plug and play options so you're not vendor locked in for complete platform.
  
 ![Fluidify AI](./assets/banner.png)
  
