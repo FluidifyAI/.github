@@ -28,4 +28,4 @@ For teams operating with production systems. It provides solutions for replacing
 - **[Documentation](https://fluidify.ai/docs)**
 ---
  
-Softwares maintaining themselves
+Softwares maintaining Softwares
