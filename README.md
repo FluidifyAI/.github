@@ -1,8 +1,8 @@
-# Fluidify AI
+# FluidifyAI
  
-### Agentic Reliability Suite for DevOps and SRE teams
+### AI SRE Suite
  
-Fluidify AI is an Agentic Reliability Suite designed for DevOps and Site Reliability Engineering (SRE) teams. It provides an open-source, self-hosted solution for replacing disjointed alerts with autonomous AI agents that investigate, triage, and remediate system issues. It is flexible in adoption with plug and play options so you're not vendor locked in for complete platform.
+For teams operating with production systems. It provides solutions for replacing disjointed tools with one platform which solves investigate, triage, and remediation at one place. It is flexible in adoption with plug and play options and avoid any vendor lock in.
  
 ![Fluidify AI](./assets/banner.png)
  
@@ -10,22 +10,22 @@ Fluidify AI is an Agentic Reliability Suite designed for DevOps and Site Reliabi
  
 | Tool | What it does |
 |------|--------------|
-| **Regen** |  Open-source, on-call management and incident lifecycle platform. It handles alert routing, incidents, integrates directly with chat platforms like Slack/Teams, and writes its own post-mortems, summaries and hadnoff digests. |
-| **Neuri** |  An autonomous Root Cause Analysis (RCA) engine designed to traverse entire infrastructure stacks (logs, metrics, and traces) instantly to find system faults. |
-| **Gills** |  A conversational chat interface that lets engineers query their observability and infrastructure  stack in natural language. |
-| **Reflex** |  An intelligent workflow engine featuring adaptive runbooks that execute fixes with/without human-in-the-loop approvals. |
+| **Regen** |  On-call and incident Management. It handles alert routing, incidents, oncall schedules, bidirectional synch Slack/Teams, and AI assist post-mortems, summaries and hadnoff digests. |
+| **Neuri** |  Adaptive Root Cause Analysis. It handles investigation, hypothesis making, hypothesis validation, reasoning overrides, RCA library, fed Code and Telemetry data with Read Only Access. |
+| **Reflex** |  Autoheal Runbook. It handles fix investigation, rollout validation, fallback rollback, reasoning overrides, Auto PRs, Runbook library, TelevisionOps|
+| **Gills** |  A chat for anybody to talk with their observability and infrastructure.|
  
 ## What Makes It Different
  
 - **No per-seat billing** — scale your team without scaling your bill.
-- **Total data sovereignty** — self-hosted for data sensitive teams so your data never leaves your infrastructure.
-- **Open standards first** — built on the Open Source model for seamless tooling integration.
+- **Modular Adaptation** — Adapt RCA or Auto Remdiation based on trust.
+- **Fits any deployment model** — VPC, Air gapped, SaaS and so on.
+
 ---
 ## Integrate with your stack today
 
 - **[Get Started](https://github.com/FluidifyAI/Regen)**
 - **[Documentation](https://fluidify.ai/docs)**
-- **[Discussions](https://github.com/FluidifyAI/Regen/discussions)**
 ---
  
-Built for the engineers who keep production running.
+Softwares maintaining themselves
