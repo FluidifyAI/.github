@@ -25,8 +25,8 @@ Best in value against all other tools.
 ---
 ## Integrate with your stack today
 
-- **[Get Started](https://github.com/FluidifyAI/Regen)**
-- **[Documentation](https://fluidify.ai/docs)**
+- **[Get Started](https://fluidify.ai/)**
+- **[Documentation](https://docs.fluidify.ai/getting-started/quickstart/)**
 ---
  
 Always Alive
