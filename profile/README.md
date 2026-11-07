@@ -3,10 +3,11 @@
 ### AI SRE Suite
  
 For teams operating with production systems. It provides solutions for replacing disjointed tools with one platform which solves investigate, triage, and remediation at one place. It is flexible in adoption with plug and play options and avoid any vendor lock in.
+Best in value against all other tools.
  
 ![Fluidify AI](./assets/banner.png)
  
-### The Suite is structured into 4 tools to make the entire system lifecycle seamless
+### 4 tools make the entire system lifecycle seamless
  
 | Tool | What it does |
 |------|--------------|
@@ -28,4 +29,4 @@ For teams operating with production systems. It provides solutions for replacing
 - **[Documentation](https://fluidify.ai/docs)**
 ---
  
-Softwares maintaining Softwares
+Always Alive
